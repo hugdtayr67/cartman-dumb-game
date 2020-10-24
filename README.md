@@ -1,2 +1,0 @@
-
-little game in c
